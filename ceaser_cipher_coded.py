@@ -1,5 +1,3 @@
-'''This is an illustration of Julias Ceaser's epic cipher he used to code his military messages 
-though this is not used anywhere in cryptography today, yet it's building block for ciphers like  Vigenère cipher, and still has modern application in the ROT13 system'''
 ch=int(input('enter your choice:  1:cipher \n\t\t\t\t\t2:decipher \n\t\t\t\t\t3:exit\n'))
 
 while(0<ch<3):
